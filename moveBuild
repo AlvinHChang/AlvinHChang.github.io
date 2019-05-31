@@ -1,2 +1,5 @@
 #!/bin/bash
 cp -r ../react-boilerplate/build/ .
+git add .
+git commit -m "updated using script"
+git push
